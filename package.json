@@ -1,0 +1,24 @@
+{
+  "name": "kiwi.opendatasz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "es6-promise": "^4.2.8",
+    "isomorphic-fetch": "^2.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axmand/kiwi.opendatasz.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/axmand/kiwi.opendatasz/issues"
+  },
+  "homepage": "https://github.com/axmand/kiwi.opendatasz#readme"
+}
